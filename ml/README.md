@@ -11,7 +11,11 @@
   - Feature Scaling
   - One Hot Encoding Categorical Attributes
 - Select & Evaluate Training Model
+  - Gradient Descent
+  - Bias-Variance TradeOff (Regularization)
   - Cross Validation
+  - Receiver Operating Characteristic Curves
+  - Validation curves
 - Fine-Tune the Model
   - Grid Search
 
