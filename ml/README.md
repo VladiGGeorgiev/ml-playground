@@ -14,7 +14,7 @@
   - Normal Equation
   - SVD
   - Gradient Descent
-  = Batch GD
+  - Batch GD
   - Stochastic GD
   - Mini-Batch GD
 - Select & Evaluate Training Model
