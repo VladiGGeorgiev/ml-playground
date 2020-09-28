@@ -10,8 +10,14 @@
   - Attribute Combinations
   - Feature Scaling
   - One Hot Encoding Categorical Attributes
-- Select & Evaluate Training Model
+- Model Training (algorithms for Linear Regression)
+  - Normal Equation
+  - SVD
   - Gradient Descent
+  - Batch GD
+  - Stochastic GD
+  - Mini-Batch GD
+- Select & Evaluate Training Model
   - Bias-Variance TradeOff (Regularization)
   - Cross Validation
   - Receiver Operating Characteristic Curves
