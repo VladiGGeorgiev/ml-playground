@@ -10,13 +10,9 @@
   - Attribute Combinations
   - Feature Scaling
   - One Hot Encoding Categorical Attributes
-- Model Training (algorithms for Linear Regression)
+- Model Training
   - Normal Equation
   - SVD
-  - Gradient Descent
-  - Batch GD
-  - Stochastic GD
-  - Mini-Batch GD
 - Select & Evaluate Training Model
   - Bias-Variance TradeOff (Regularization)
   - Cross Validation
@@ -25,6 +21,15 @@
 - Fine-Tune the Model
   - Grid Search
 
+## Algorithms
+- Gradient Descent
+  - Batch GD
+  - Stochastic GD
+  - Mini-Batch GD
+- K-Nearest Neighbors
+- Support Vector Machine
+- Decision Tree
+- K-Means
 ## Performance Measures
 - Root Mean Square Error
 - Mean Squared Error
