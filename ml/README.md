@@ -18,6 +18,7 @@
   - Cross Validation
   - Receiver Operating Characteristic Curves
   - Validation curves
+  - Precision Recall Curve
 - Fine-Tune the Model
   - Grid Search
 
@@ -30,6 +31,8 @@
 - Support Vector Machine
 - Decision Tree
 - K-Means
+- Random Forest
+- Naive Bayes classifiers
 ## Performance Measures
 - Root Mean Square Error
 - Mean Squared Error
