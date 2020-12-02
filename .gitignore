@@ -1,3 +1,10 @@
+# Exercise folders
+ml-exercises/
+math-lectures/
+math-exercises/
+data-science-exercises/
+datasets/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
